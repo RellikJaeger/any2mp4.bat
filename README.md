@@ -6,4 +6,8 @@
 5. Press enter  
 6. Done!  
 
+  You can also use it from cmd.  
+  Just open cmd in the same directory with any2mp4.bat file.  
+  And, just type "any2mp4 video.flv" or "any2mp4 video.mkv" in cmd, it will export video.mp4.  
+
   NOTE: If you get error, rename your video filename to valid filename.  
